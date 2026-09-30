@@ -1,2 +1,2 @@
 # weathering-app
-Creating the weather app as very first frontend project
+Created the weather app as a very first frontend project.
